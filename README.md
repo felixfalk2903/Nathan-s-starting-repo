@@ -16,6 +16,7 @@ This is a list of thing one should learn when wanting to become a webdeveloper
 | node && express  |   | ❌  | ★★★★✰ |
 | sql  |   | ❌  | ★★★★✰ |
 | vue/angular/react  |   | ❌  | ★★★★★ |
+| css framework  |   | ❌  | ★★★✰✰  |
 | pwa  |   | ❌  | ★★★✰✰ |
 | user-data  |   | ❌  | ★★★★★ |
 
