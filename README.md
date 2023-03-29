@@ -42,5 +42,7 @@ Everyone on the internet is always saying you don't need to school to become a d
 
 Here in belgium we have a name for this kind of course, its called a 'graduaat' so i looked it up and it would be a Non-degree-education.
 
+If you would be interested in doing this i can send them a mail asking about foreign students. I know Belgians pay around 1000euro a year (so very affordable) but i'm uncertain about foreigners. 
+
 
 [link to the course](https://www.howest.be/nl/opleidingen/graduaat/programmeren#opleidingsprogramma)
