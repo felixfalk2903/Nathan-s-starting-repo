@@ -8,16 +8,16 @@ This is a list of thing one should learn when wanting to become a webdeveloper
 
 |  skill/framework/language | links  | learned  | difficulty |
 |---|---|---|---|
-| html  |   | ❌  | ⭐✰✰✰✰ |
-| css  |   | ❌  | ⭐⭐⭐✰✰ |
-| javascript  |   | ❌  | ⭐⭐⭐⭐✰ |
-| git/github  |   | ❌  | ⭐✰✰✰✰ |
-| webpack  |   | ❌  | ⭐⭐⭐✰✰ |
-| node && express  |   | ❌  | ⭐⭐⭐⭐✰ |
-| sql  |   | ❌  | ⭐⭐⭐⭐✰ |
-| vue/angular/react  |   | ❌  | ⭐⭐⭐⭐⭐ |
-| pwa  |   | ❌  | ⭐⭐⭐✰✰ |
-| user-data  |   | ❌  | ⭐⭐⭐⭐⭐ |
+| html  |   | ❌  | ★✰✰✰✰ |
+| css  |   | ❌  | ★★★✰✰ |
+| javascript  |   | ❌  | ★★★★✰ |
+| git/github  |   | ❌  | ★✰✰✰✰ |
+| webpack  |   | ❌  | ★★★✰✰ |
+| node && express  |   | ❌  | ★★★★✰ |
+| sql  |   | ❌  | ★★★★✰ |
+| vue/angular/react  |   | ❌  | ★★★★★ |
+| pwa  |   | ❌  | ★★★✰✰ |
+| user-data  |   | ❌  | ★★★★★ |
 
 
 
@@ -26,12 +26,12 @@ This is a list of thing one should learn when wanting to become a webdeveloper
 
 |  skill/framework/language | links  | learned  | difficulty |
 |---|---|---|---|
-| typescript  |  | ❌  | ⭐⭐⭐✰✰ 
-| python/c#/java/c++ (for backends)  |   | ❌  | ⭐⭐⭐⭐✰ |
-|  bash |   | ✅  | ⭐✰✰✰✰ |
-|  linux-distro |   | ✅  | ⭐✰✰✰✰ |
-|  docker |   | ✅  | ⭐⭐⭐⭐⭐ |
-|  markdown |   | ✅  | ⭐✰✰✰✰ |
+| typescript  |  | ❌  | ★★★✰✰ 
+| python/c#/java/c++ (for backends)  |   | ❌  | ★★★★✰ |
+|  bash |   | ✅  | ★✰✰✰✰ |
+|  linux-distro |   | ✅  | ★✰✰✰✰ |
+|  docker |   | ✅  | ★★★★★ |
+|  markdown |   | ✅  | ★✰✰✰✰ |
 
 
 
